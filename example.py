@@ -1,1 +1,2 @@
-Open pandas as p
+Open pandas as p.
+open numpy as np
